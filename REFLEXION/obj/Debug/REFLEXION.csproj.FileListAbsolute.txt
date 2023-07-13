@@ -1,0 +1,11 @@
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\bin\Debug\REFLEXION.exe.config
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\bin\Debug\REFLEXION.exe
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\bin\Debug\REFLEXION.pdb
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.csproj.AssemblyReference.cache
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.csproj.SuggestedBindingRedirects.cache
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.Form1.resources
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.Properties.Resources.resources
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.csproj.GenerateResource.cache
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.csproj.CoreCompileInputs.cache
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.exe
+C:\Users\hcc\source\repos\REFLEXION\REFLEXION\obj\Debug\REFLEXION.pdb
